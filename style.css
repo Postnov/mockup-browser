@@ -1,0 +1,23 @@
+img{
+    max-width: 100%;
+}
+
+.work {
+    width: 100%;
+    max-width: 1070px;
+    position: relative;
+    z-index: 20;
+}
+
+.work__mockup {
+    width: 100%;
+}
+
+.work__inner{
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    width: 90%;
+    max-height: 63%;
+    overflow-y: scroll;
+}
